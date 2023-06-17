@@ -1,6 +1,6 @@
 # Area of Polygons 
 
-<img align="middle" src="img/img1.png" width="500" height="500">
+<img align="middle" src="img/img1.png" width="1000" height="500">
 
 ## Output:
 
