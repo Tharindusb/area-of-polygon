@@ -35,3 +35,4 @@ This application calculates the area of a polygon given its coordinates. It is i
 	SHAPE8 overlaps with SHAPE7
 
 ```
+<img align="middle" src="img/img2.png" width="1000" height="500">
