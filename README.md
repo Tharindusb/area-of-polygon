@@ -1,5 +1,7 @@
 # Area of Polygons 
 
+This application calculates the area of a polygon given its coordinates. It is implemented in C++ and provides a straightforward method to determine the area of any polygon.
+
 <img align="middle" src="img/img1.png" width="1000" height="500">
 
 ## Output:
